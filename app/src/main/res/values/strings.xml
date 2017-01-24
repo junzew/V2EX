@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">V2EX</string>
+    <string name="action_edit">action</string>
+    <string name="action_settings">settings</string>
+</resources>

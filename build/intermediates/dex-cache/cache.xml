@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-0.10.0_3f7db186c5731b631ea2e2814a77faa124f034f1.jar" />
+    </item>
+    <item
+        jar="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.3.0_cdbad9578de78d300b101bb22fc567a54df65863.jar" />
+    </item>
+    <item
+        jar="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fbcore-0.10.0_0a46a63976702638d04eb7ac6854db69288776ee.jar" />
+    </item>
+    <item
+        jar="/Users/junze/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/support-annotations-23.3.0_889d86b138dde084371dfbcd3132cab40164d1e0.jar" />
+    </item>
+    <item
+        jar="/Users/junze/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/library-2.4.0_5f8693c73bd6af53a95f8bb898cf1ce780c823de.jar" />
+    </item>
+    <item
+        jar="/Users/junze/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/bolts-android-1.1.4_02ca165af869b7bf06f4e60991e37ea3455a4498.jar" />
+    </item>
+    <item
+        jar="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.3.0_144278e13368ddf01987d2a022a0bd9c4f496d59.jar" />
+    </item>
+    <item
+        jar="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.3.0_ea6bf25356f6ea62489d1035877fcf15fcbd4087.jar" />
+    </item>
+    <item
+        jar="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fresco-0.10.0_f447edae3ea94406ca26e235268adc2b1a6b6698.jar" />
+    </item>
+    <item
+        jar="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.3.0_72e2da6be68976e55418c952903eaea49f615459.jar" />
+    </item>
+    <item
+        jar="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/com.android.support-design-23.3.0_0c7982786e08a0cb486ea93e065cc2b237999875.jar" />
+    </item>
+    <item
+        jar="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-base-0.10.0_2f793e6c149476426542350caa311829ff11cda6.jar" />
+    </item>
+    <item
+        jar="/Users/junze/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/okhttp-3.3.0_562fd7fde2969c1d7e7b9c045ed37d391f90cd68.jar" />
+    </item>
+    <item
+        jar="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/internal_impl-23.3.0_ce863e86bea5c62c1a05b50d29a1d1c3c26cf63f.jar" />
+    </item>
+    <item
+        jar="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/com.facebook.fresco-drawee-0.10.0_2c167b742d023410bb03e80a9b54495cc7a58427.jar" />
+    </item>
+    <item
+        jar="/Users/junze/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/okio-1.8.0_f9044df0c60c1af4c38fa05a01ce2ebfbd301014.jar" />
+    </item>
+    <item
+        jar="/Users/junze/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/picasso-2.5.2_a828ace74f99b17c3bb5c0c082980c9f9d41a271.jar" />
+    </item>
+    <item
+        jar="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/junze/Documents/Development/repos/V2EX/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.3.0_dac6025ff0924753d394590d85df22591cbb3050.jar" />
+    </item>
+
+</items>
